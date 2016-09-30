@@ -1,4 +1,13 @@
 {
+    "dependencies": {
+        "BouncyCastle" : "1.7.0",
+        "Google.Apis" : "1.16.0",
+        "Google.Apis.Auth" : "1.16.0",
+        "Google.Apis.Core" : "1.16.0",
+        "log4net" : "2.0.3",
+        "Newtonsoft.Json" : "7.0.1",
+        "Zlib.Portable.Signed" : "1.11.0"
+    },
   "frameworks": {
     "net45": { }
   },

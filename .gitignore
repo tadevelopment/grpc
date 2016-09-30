@@ -96,3 +96,5 @@ Pods/
 
 # Artifacts directory
 artifacts/
+CMakeFiles/
+CMakeCache.txt

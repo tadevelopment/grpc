@@ -1,4 +1,21 @@
 {
+    "dependencies": { 
+        "BouncyCastle" : "1.7.0",
+        "Castle.Core" : "3.3.3",
+        "CommandLineParser.Unofficial" : "2.0.275",
+        "Google.Apis" : "1.16.0",
+        "Google.Apis.Auth" : "1.16.0",
+        "Google.Apis.Core" : "1.16.0",
+        "Google.Protobuf" : "3.0.0",
+        "log4net" : "2.0.3",
+        "Moq" : "4.6.38-alpha",
+        "Newtonsoft.Json" : "7.0.1",
+        "NUnit" : "3.2.0",
+        "NUnitLite" : "3.2.0",
+        "System.Interactive.Async" : "3.0.0",
+        "Zlib.Portable.Signed" : "1.11.0"
+    }, 
+
   "frameworks": {
     "net45": { }
   },
